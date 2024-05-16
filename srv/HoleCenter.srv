@@ -1,0 +1,3 @@
+---
+int16[] hole_centers_x
+int16[] hole_centers_y
